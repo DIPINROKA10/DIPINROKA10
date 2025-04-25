@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DIPINROKA10
+- 👋 Hi, I’m @DIPINROKA
 - 👀 I’m interested in devloping
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
