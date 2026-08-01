@@ -109,41 +109,7 @@
   </picture>
 </p>
 
-> ⚙️ **One-time setup needed:** this uses [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) (it powers multiple arcade games, not just Pac-Man) — a fighter ship flies across your contribution graph shooting lasers at your contribution cells, starfield background and all. Setup steps:
-> 1. Make sure you have a repo named exactly `DIPINROKA10` (your GitHub profile repo — you likely already have this from the old snake setup).
-> 2. Inside it, create `.github/workflows/main.yml` with:
-> ```yaml
-> name: generate arcade contribution graphs
-> on:
->   schedule:
->     - cron: '0 0 * * *'   # runs daily
->   workflow_dispatch:
->   push:
->     branches: [main]
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     timeout-minutes: 20
->     steps:
->       - name: generate contribution graph SVGs
->         uses: abozanona/pacman-contribution-graph@main
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           games: 'galaga'
->       - name: push SVGs to the output branch
->         uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> 3. Commit and push, then go to the **Actions** tab → run the workflow manually once so the `output` branch and SVGs get created.
-> 4. The image above starts rendering once that first run completes, and auto-updates daily after that.
->
-> Want a different game instead of Galaga? Swap `games: 'galaga'` for `pacman`, `breakout`, `puzzle-bobble`, `bomberman`, or `minesweeper` (comma-separate to generate more than one), and update the image `src`/`srcset` filenames to match (e.g. `pacman-contribution-graph.svg`).
+> ⚙️ **One-time setup needed:** this uses [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) (it powers multiple arcade games, not just Pac-Man) — a fighter ship flies across your contribution graph shooting lasers at your contribution cells,
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/github-contribution-grid-snake.svg" />
