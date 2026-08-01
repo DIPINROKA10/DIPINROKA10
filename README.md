@@ -47,7 +47,7 @@
 | **[ASTRA](https://astra-ksp-datathon-zrufprox.onslate.in/)** | Sovereign crime intelligence system built for Karnataka State Police (Datathon submission) — [Live](https://astra-ksp-datathon-zrufprox.onslate.in/) | AI/ML, Data Systems |
 | **[Pothole & Road Damage Reporter](https://1m1b-ai-for-sustainiblity-intership.vercel.app/)** | AI-based civic reporting tool for road damage, built for the 1M1B × IBM SkillsBuild AI for Sustainability internship (SDG 11) — [Live](https://1m1b-ai-for-sustainiblity-intership.vercel.app/) | React, AI/ML |
 | **[AirSense AI](#)** | Hyperlocal air quality assistant built on IBM Granite/WatsonX | WatsonX, Python |
-| **[CarbonTrace](#)** | Carbon footprint tracker with India-specific context — [Live](https://carbontracev2.netlify.app) | React, Firebase |
+| **[CarbonTrace](https://carbontracev2.netlify.app/)** | Carbon footprint tracker with India-specific context — [Live](https://carbontracev2.netlify.app) | React, Firebase |
 | **[Vision X Portfolio](https://visionx-v1.vercel.app)** | Team portfolio site for Vision X | React, Vercel |
 
 > ✏️ *Swap the `#` links above with your actual GitHub repo URLs.*
