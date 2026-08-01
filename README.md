@@ -42,7 +42,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Prakasam Waterhole Sentinel](#)** | AI-powered drowning prevention & rescue coordination system integrating police drone/CCTV feeds | YOLOv8, MediaPipe, Streamlit, PostgreSQL, Telegram |
+| **[Prakasam Waterhole Sentinel](https://github.com/ch-irax/waterhole_sentinal)** | AI-powered drowning prevention & rescue coordination system integrating police drone/CCTV feeds | YOLOv8, MediaPipe, Streamlit, PostgreSQL, Telegram |
 | **[TraceRelief](https://github.com/neerajcoder1/tracelief-hackathon)** | Full-stack AI disaster response coordination platform | React, Firebase, Gemini |
 | **[ASTRA](https://astra-ksp-datathon-zrufprox.onslate.in/)** | Sovereign crime intelligence system built for Karnataka State Police (Datathon submission) — [Live](https://astra-ksp-datathon-zrufprox.onslate.in/) | AI/ML, Data Systems |
 | **[Pothole & Road Damage Reporter](https://1m1b-ai-for-sustainiblity-intership.vercel.app/)** | AI-based civic reporting tool for road damage, built for the 1M1B × IBM SkillsBuild AI for Sustainability internship (SDG 11) — [Live](https://1m1b-ai-for-sustainiblity-intership.vercel.app/) | React, AI/ML |
