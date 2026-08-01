@@ -99,11 +99,57 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIPINROKA10&theme=tokyo-night&hide_border=true" />
 </p>
 
+<h4 align="center">👻 Pac-Man Contribution Graph</h4>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+> ⚙️ **One-time setup needed:** this uses [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) — Pac-Man munches through your contribution graph while ghosts give chase, and your busiest days act as power pellets that let Pac-Man eat the ghosts back. Setup steps:
+> 1. Make sure you have a repo named exactly `DIPINROKA10` (your GitHub profile repo — you likely already have this from the old snake setup).
+> 2. Inside it, create `.github/workflows/main.yml` with:
+> ```yaml
+> name: generate arcade contribution graphs
+> on:
+>   schedule:
+>     - cron: '0 0 * * *'   # runs daily
+>   workflow_dispatch:
+>   push:
+>     branches: [main]
+> jobs:
+>   generate:
+>     permissions:
+>       contents: write
+>     runs-on: ubuntu-latest
+>     timeout-minutes: 20
+>     steps:
+>       - name: generate contribution graph SVGs
+>         uses: abozanona/pacman-contribution-graph@main
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           games: 'pacman'
+>       - name: push SVGs to the output branch
+>         uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> 3. Commit and push, then go to the **Actions** tab → run the workflow manually once so the `output` branch and SVGs get created.
+> 4. The image above starts rendering once that first run completes, and auto-updates daily after that.
+>
+> Want a different game instead of Pac-Man? Swap `games: 'pacman'` for `breakout`, `galaga`, `puzzle-bobble`, `bomberman`, or `minesweeper` (comma-separate to generate more than one), and update the image `src`/`srcset` filenames to match (e.g. `breakout-contribution-graph.svg`).
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚙️ **One-time setup needed:** the snake animation above only appears after you add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly `DIPINROKA10` (your profile repo). It regenerates automatically every day once set up — that's your "real-time" contribution animation.
+> *(Old snake animation kept above for reference — remove this block once the Pac-Man Action is confirmed working, or keep both if you like having two.)*
 
 ---
 
