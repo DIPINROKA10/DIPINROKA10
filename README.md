@@ -99,17 +99,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIPINROKA10&theme=tokyo-night&hide_border=true" />
 </p>
 
-<h4 align="center">👻 Pac-Man Contribution Graph</h4>
+<h4 align="center">🚀 Galaga Contribution Graph</h4>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/galaga-contribution-graph.svg">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/galaga-contribution-graph.svg">
   </picture>
 </p>
 
-> ⚙️ **One-time setup needed:** this uses [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) — Pac-Man munches through your contribution graph while ghosts give chase, and your busiest days act as power pellets that let Pac-Man eat the ghosts back. Setup steps:
+> ⚙️ **One-time setup needed:** this uses [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph) (it powers multiple arcade games, not just Pac-Man) — a fighter ship flies across your contribution graph shooting lasers at your contribution cells, starfield background and all. Setup steps:
 > 1. Make sure you have a repo named exactly `DIPINROKA10` (your GitHub profile repo — you likely already have this from the old snake setup).
 > 2. Inside it, create `.github/workflows/main.yml` with:
 > ```yaml
@@ -131,7 +131,7 @@
 >         uses: abozanona/pacman-contribution-graph@main
 >         with:
 >           github_user_name: ${{ github.repository_owner }}
->           games: 'pacman'
+>           games: 'galaga'
 >       - name: push SVGs to the output branch
 >         uses: crazy-max/ghaction-github-pages@v3.1.0
 >         with:
@@ -143,13 +143,13 @@
 > 3. Commit and push, then go to the **Actions** tab → run the workflow manually once so the `output` branch and SVGs get created.
 > 4. The image above starts rendering once that first run completes, and auto-updates daily after that.
 >
-> Want a different game instead of Pac-Man? Swap `games: 'pacman'` for `breakout`, `galaga`, `puzzle-bobble`, `bomberman`, or `minesweeper` (comma-separate to generate more than one), and update the image `src`/`srcset` filenames to match (e.g. `breakout-contribution-graph.svg`).
+> Want a different game instead of Galaga? Swap `games: 'galaga'` for `pacman`, `breakout`, `puzzle-bobble`, `bomberman`, or `minesweeper` (comma-separate to generate more than one), and update the image `src`/`srcset` filenames to match (e.g. `pacman-contribution-graph.svg`).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/github-contribution-grid-snake.svg" />
 </p>
 
-> *(Old snake animation kept above for reference — remove this block once the Pac-Man Action is confirmed working, or keep both if you like having two.)*
+> *(Old snake animation kept above for reference — remove this block once the Galaga Action is confirmed working, or keep both if you like having two.)*
 
 ---
 
