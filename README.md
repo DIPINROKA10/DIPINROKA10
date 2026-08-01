@@ -48,7 +48,7 @@
 | **[Pothole & Road Damage Reporter](https://1m1b-ai-for-sustainiblity-intership.vercel.app/)** | AI-based civic reporting tool for road damage, built for the 1M1B × IBM SkillsBuild AI for Sustainability internship (SDG 11) — [Live](https://1m1b-ai-for-sustainiblity-intership.vercel.app/) | React, AI/ML |
 | **[AirSense AI](#)** | Hyperlocal air quality assistant built on IBM Granite/WatsonX | WatsonX, Python |
 | **[CarbonTrace](https://carbontracev2.netlify.app/)** | Carbon footprint tracker with India-specific context — [Live](https://carbontracev2.netlify.app) | React, Firebase |
-| **[Vision X Portfolio](https://visionx-v1.vercel.app)** | Team portfolio site for Vision X | React, Vercel |
+| **[Vision X Portfolio](https://visionx-v1.vercel.app)** | Team portfolio site for Vision X -[Live](https://visionx-v1.vercel.app/) | React, Vercel |
 
 > ✏️ *Swap the `#` links above with your actual GitHub repo URLs.*
 
