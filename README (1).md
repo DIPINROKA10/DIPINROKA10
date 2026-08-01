@@ -1,0 +1,100 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dipin+Roka;AI%2FML+Student+%7C+Full-Stack+Builder;I+build+for+hackathons+%26+ship+to+production;Welcome+to+my+GitHub" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipin-roka">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/DIPINROKA10">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://www.hackerrank.com/DIPINROKA10">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DIPINROKA10&style=for-the-badge&color=blueviolet" alt="Profile views">
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+**BCA (AI & ML)** student at Alliance University, Bengaluru, and part of **Vision X**, a student innovation team building AI-powered projects for hackathons.
+
+- 🧠 React, Flutter, Firebase, Python, and AI APIs (Gemini, WatsonX, Claude)
+- 🏆 Active hackathon builder with multiple live, deployed projects
+- 🎖️ NCC 'B' and 'C' Certificate holder
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Prakasam Waterhole Sentinel](#)** | AI-powered drowning prevention & rescue coordination system integrating police drone/CCTV feeds | YOLOv8, MediaPipe, Streamlit, PostgreSQL, Telegram |
+| **[TraceRelief](#)** | Full-stack AI disaster response coordination platform | React, Firebase, Gemini |
+| **[ASTRA](#)** | Sovereign crime intelligence system built for Karnataka State Police (Datathon submission) | AI/ML, Data Systems |
+| **[AirSense AI](#)** | Hyperlocal air quality assistant built on IBM Granite/WatsonX | WatsonX, Python |
+| **[CarbonTrace](#)** | Carbon footprint tracker with India-specific context — [Live](https://carbontracev2.netlify.app) | React, Firebase |
+| **[Vision X Portfolio](https://visionx-v1.vercel.app)** | Team portfolio site for Vision X | React, Vercel |
+
+> ✏️ *Swap the `#` links above with your actual GitHub repo URLs.*
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core**
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+</p>
+
+**Frameworks & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,firebase,mysql,git,github,vscode,figma,linux" />
+</p>
+
+**AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/IBM_WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DIPINROKA10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIPINROKA10&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIPINROKA10&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DIPINROKA10&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIPINROKA10&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DIPINROKA10/DIPINROKA10/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚙️ *The snake animation needs a one-time GitHub Action setup (see [platane/snk](https://github.com/Platane/snk)).*
+
+---
+
+<p align="center">
+  <i>⭐ Thanks for stopping by — feel free to connect or check out my <a href="https://www.linkedin.com/in/dipin-roka">LinkedIn</a>!</i>
+</p>
