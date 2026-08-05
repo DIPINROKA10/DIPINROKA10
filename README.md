@@ -50,7 +50,7 @@
 | **[CarbonTrace](https://carbontracev2.netlify.app/)** | Carbon footprint tracker with India-specific context — [Live](https://carbontracev2.netlify.app) | React, Firebase |
 | **[Vision X Portfolio](https://visionx-v1.vercel.app)** | Team portfolio site for Vision X -[Live](https://visionx-v1.vercel.app/) | React, Vercel |
 
-> ✏️ *Swap the `#` links above with your actual GitHub repo URLs.*
+
 
 ---
 
