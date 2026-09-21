@@ -63,7 +63,7 @@
 
 **Frameworks & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=react,flutter,firebase,mysql,git,github,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=react,firebase,mysql,git,github,vscode,figma," />
 </p>
 
 **AI / ML**
