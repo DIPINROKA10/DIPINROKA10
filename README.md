@@ -61,7 +61,7 @@
 
 **Languages & Core**
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
 **Frameworks & Tools**
