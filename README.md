@@ -31,17 +31,17 @@
 
 ---
 
-<h3 align="center">🧑‍💻 About Me</h3>
+<h3 align="center"> About Me</h3>
 
 **BCA (AI & ML)** student at Alliance University, Bengaluru, and part of **Vision X**, a student innovation team building AI-powered projects for hackathons.
 
-- 🧠 React, Flutter, Firebase, Python, and AI APIs (Gemini, WatsonX, Claude)
-- 🏆 Active hackathon builder with multiple live, deployed projects
-- 🎖️ NCC 'B' and 'C' Certificate holder
+- React, Flutter, Firebase, Python, and AI APIs (Gemini, WatsonX, Claude)
+- Active hackathon builder with multiple live, deployed projects
+- NCC 'B' and 'C' Certificate holder
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center"> Featured Projects</h3>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 **Languages & Core**
 <p>
@@ -79,7 +79,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center"> GitHub Stats</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DIPINROKA10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -96,13 +96,13 @@
 
 ---
 
-<h3 align="center">🔥 Contribution Activity</h3>
+<h3 align="center"> Contribution Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIPINROKA10&theme=tokyo-night&hide_border=true" />
 </p>
 
-<h4 align="center">🚀 Galaga Contribution Graph</h4>
+<h4 align="center"> Galaga Contribution Graph</h4>
 
 <p align="center">
   <picture>
